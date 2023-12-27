@@ -45,6 +45,14 @@ header {
   padding-top: 105px; /* 上側の内側余白で垂直方向の位置を調整 */
 }
 
+.main-visual-text , .main-visual-name{
+  color: white;
+}
+
+.main-visual-name{
+  margin-top: 30px;
+}
+
 header .heading { /* headerタグ内のheadingクラスにのみ反映される */
   font-size: 32px;
 }
