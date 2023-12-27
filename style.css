@@ -40,6 +40,7 @@ header {
 .main-visual-content {
   width: 40%; /* 横幅40% */
   height: 300px; /* 親の高さに揃える */
+  background-color: rgba( 0, 0, 0, 0.5); /* 背景色を半透明の黒にする */
 }
 
 header .heading { /* headerタグ内のheadingクラスにのみ反映される */
