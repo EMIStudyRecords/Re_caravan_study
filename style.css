@@ -82,6 +82,11 @@ main {
   border-bottom: 1px solid #f7f7f7;
 }
 
+.blog-image{
+  width: 350px;
+  height: 180px;
+}
+
 .category {
   display: inline-block;
   padding: 5px 8px;
