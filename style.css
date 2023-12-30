@@ -76,12 +76,16 @@ main {
   line-height: 0.6;
 }
 
+.blog-box{
+  padding-top: 50px;
+}
+
 .blog-item{
   padding-bottom: 20px;
   margin-bottom: 20px;
   border-bottom: 1px solid #f7f7f7;
   display: flex;
-  justify-content: flex-start;
+  justify-content: flex-start; /*親要素に子要素の水平方向の揃えを指定する（左揃え）*/
 }
 
 .blog-image{
