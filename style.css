@@ -98,6 +98,9 @@ main {
   padding-left: 30px;
 }
 
+.blog-text-heading{
+  padding-bottom: 15px;
+}
 
 .blog-date{
   font-size: 12px;
